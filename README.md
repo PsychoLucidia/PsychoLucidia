@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @PsychoLucidia
-- 👀 I’m interested in Music and Programming
-- ❗ This account exist to follow all the interesting projects around Github.
+# PsychoLucidia's Profile
 
-<!---
-PsychoLucidia/PsychoLucidia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm PsychoLucidia, an aspiring Game Programmer, composer/producer. 
+
+Most of my experience is mostly making music and I know that game development is one hell of a ride to start with, but that won't stop me from becoming an aspiring developer.
