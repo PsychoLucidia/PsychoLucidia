@@ -4,6 +4,8 @@ I'm PsychoLucidia, an aspiring Game Programmer and composer/producer.
 
 Most of my experience is mostly making music and I know that game development is one hell of a ride to start with, but that won't stop me from becoming an aspiring developer.
 
+While growing up, video games have caught my interest. By owning a handheld consoles in my childhood, I have wondered how these games came to be. From astonishing graphics, intriguing games from different platforms, I've set my sight on how these games are made. Because of this, I've set my goal to make my own game someday.
+
 ## Hobbies and Works
 
 - **What I Do Mostly:** Programming in C#, making music usually EDM and Orchestra.
