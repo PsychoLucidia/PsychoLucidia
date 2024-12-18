@@ -17,3 +17,15 @@ Most of my experience is mostly making music and I know that game development is
 - **Other Software:** FL Studio, Adobe Photoshop.
 
 ## Projects
+
+### [Doodlez](https://github.com/PsychoLucidia/Doodle-YCC-Project)
+Inspired by Rogue-like video games, Doodlez is a WIP game made for the Young Creatives Challenge Game Development Jam in the Philippines
+
+### [Pook-Sapot: Labanan ng Gagambots](https://github.com/PsychoLucidia/PookSapot-Project)
+A 1-on-1 arena game inspired from spider fighting that is known in the Philippines. This game is submitted to the Buwan ng Wika Game Jam.
+
+## Websites
+You can also find me in these websites:
+
+- [**Soundcloud**](https://soundcloud.com/user-438275632): I post music here from time to time.
+- [**Newgrounds**](https://synthharmonia.newgrounds.com/): I also post music here though not that much.
