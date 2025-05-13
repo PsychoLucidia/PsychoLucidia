@@ -26,6 +26,8 @@ Inspired by Rogue-like video games, Doodlez is a WIP game made for the Young Cre
 ### [Pook-Sapot: Labanan ng Gagambots](https://github.com/PsychoLucidia/PookSapot-Project)
 A 1-on-1 arena game inspired from spider fighting that is known in the Philippines. This game is submitted to the Buwan ng Wika Game Jam.
 
+### [Landiland](https://github.com/PsychoLucidia/Project-Landiland)
+
 ## Websites
 You can also find me in these websites:
 
