@@ -21,12 +21,13 @@ While growing up, video games have caught my interest. By owning a handheld cons
 ## Projects
 
 ### [Doodlez](https://github.com/PsychoLucidia/Doodle-YCC-Project)
-Inspired by Rogue-like video games, Doodlez is a WIP game made for the Young Creatives Challenge Game Development Jam in the Philippines
+Inspired by Rogue-like video games, Doodlez is a game made for the Young Creatives Challenge Game Development Jam in the Philippines.
 
 ### [Pook-Sapot: Labanan ng Gagambots](https://github.com/PsychoLucidia/PookSapot-Project)
 A 1-on-1 arena game inspired from spider fighting that is known in the Philippines. This game is submitted to the Buwan ng Wika Game Jam.
 
 ### [Landiland](https://github.com/PsychoLucidia/Project-Landiland)
+A typing game that is game made for the Kwentoon Aral Arcade Game Jam.
 
 ## Websites
 You can also find me in these websites:
